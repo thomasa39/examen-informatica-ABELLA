@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
-- **Consigna que desarrollo:** `consignas/` + nombre del archivo
+- **Apellido y nombre:** Abella, Thomas
+- **Tecnicatura:** Marketing Digital
+- **Cohorte / turno:** 2026 Tunro Noche
+- **Fecha:** 04/11/2026
+- **Consigna que desarrollo:** `consignas/marketing-digital.md`
